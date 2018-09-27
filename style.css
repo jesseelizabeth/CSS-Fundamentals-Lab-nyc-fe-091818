@@ -29,3 +29,11 @@ figcaption {
 p {
   text-align: center;
 }
+
+#details {
+  display: block;
+}
+
+#div {
+  float: left;
+}
