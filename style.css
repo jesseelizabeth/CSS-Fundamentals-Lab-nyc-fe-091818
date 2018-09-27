@@ -12,7 +12,7 @@ section {
   margin: 0 auto;
 }
 
-nav {
+nav a {
   padding: 0px 10px 0px 10px;
   background-color: grey;
 }
