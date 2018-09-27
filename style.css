@@ -13,6 +13,8 @@ header {
 }
 
 #featured-property p {
+  width: 800px;
+  margin: auto 0;
   text-align: center;
 }
 
