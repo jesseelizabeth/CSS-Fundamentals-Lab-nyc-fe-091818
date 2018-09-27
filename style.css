@@ -10,6 +10,7 @@ header {
 
 section {
   margin: 0 auto;
+  text-align: center;
 }
 
 nav a {
@@ -19,10 +20,6 @@ nav a {
 
 figcaption {
   font-size: 12px;
-  text-align: center;
-}
-
-#featured-property {
   text-align: center;
 }
 
