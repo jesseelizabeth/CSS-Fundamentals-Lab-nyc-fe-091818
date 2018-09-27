@@ -12,6 +12,10 @@ section {
   text-align: center;
 }
 
+section p {
+  width: 800px;
+}
+
 nav a {
   padding: 0px 10px 0px 10px;
   background-color: grey;
